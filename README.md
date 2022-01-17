@@ -1,9 +1,7 @@
 *# IoT_Basic_Project*
-Here I have made a simple , smart door lock system.                                                                                                                             
-Which is basically a combination of two projects door lock system and automatic door lock system .                                                                               
-
-*The safety in the house is very important . This project is basically a smart door lock which can be used to enhance security of a house .                                       
-
+*Here I have made a simple , smart door lock system.                                                                                                                             
+Which is basically a combination of two projects door lock system and automatic door lock system .*                                                                               
+*The safety in the house is very important . This project is basically a smart door lock which can be used to enhance security of a house . *                                      
 *Components used:-                                                                                                                                                               
 PIR sensor                                                                                                                                                                       
 Servo motor                                                                                                                                                                     
@@ -27,4 +25,4 @@ We can add fire,  wind and LPG sensors so that in case of accident, the doors wi
 This project is created by: Nikita Jain.                                                                                                                                         
 CLUB: INNOGEEKS.                                                                                                                                                                 
 College: KIET Group of Institutions, Ghaziabad- 201206.                                                                                                                         
-Semester: 3rd                                                                                                                                                                                                   
+Semester: 3rd *                                                                                                                                                                                                
