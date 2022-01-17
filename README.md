@@ -7,8 +7,8 @@ The safety in the house is very important . This project is basically a smart do
 Components used:-                                                                                                                                                               
 PIR sensor                                                                                                                                                                       
 Servo motor                                                                                                                                                                     
-16*2 lcd                                                                                                                                                                         
-4*4 keypad
+16 * 2 lcd                                                                                                                                                                       
+4 * 4 keypad
 Arduino uno                                                                                                                                                                     
 Buzzer                                                                                                                                                                           
 Potentiometer                                                                                                                                                                   
